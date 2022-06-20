@@ -6,6 +6,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gah-cresciulo007)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Cresciulo GitHub stats](https://github-readme-stats.vercel.app/api?username=gah-cresciulo007&show_icons=true&theme=highcontrast)
 
