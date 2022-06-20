@@ -19,5 +19,5 @@
 
 Mudando minha vida com a tecnologia!
 
-"Bebei amigos yo hou"-Cap. Jack Sparrow ⚓🏴‍☠️
+
 
