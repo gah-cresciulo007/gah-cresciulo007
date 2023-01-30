@@ -13,7 +13,6 @@
 ### My profile on the networks:
 
 [![Instagram](https://img.icons8.com/fluency/48/undefined/instagram-new.png)](https://www.instagram.com/gah_cresciulo007/)
-[![facebook](https://img.icons8.com/fluency/48/undefined/facebook.png)](https://www.facebook.com/gabriel.cresciulo/)
 [![linkedin](https://img.icons8.com/fluency/48/undefined/linkedin.png)](https://www.linkedin.com/in/gabriel-cresciulo-183486212/)
 
 
